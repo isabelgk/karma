@@ -4,3 +4,6 @@ karma~(b)/karma~.mxo/Contents/Info.plist
 karma~(b)/karma~.mxo/Contents/PkgInfo
 karma~.mxo/Contents/Info.plist
 karma~.mxo/Contents/PkgInfo
+
+build/
+externals/

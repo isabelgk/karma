@@ -33,6 +33,23 @@ If you choose to place the git repo somewhere else on your system, the project w
 
 ==================================
 
+Building and Installing for Max 8.2+
+
+Requirements:
+- Visual Studio or XCode 12+
+- CMake 3.19+
+
+```
+git clone https://github.com/rconstanzo/karma --recurse-submodules
+cd karma
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
+
+==================================
+
 Copyright (c) 2015-2017, Rodrigo Constanzo
 All rights reserved.
 
